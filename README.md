@@ -7,7 +7,7 @@ You can install `Mod Release Notes` like any other mod you use. Every time Zombo
 
 ## For Modders
 
-Supporting Release Notes in your mod is easy. Just add a "releasenotes.ini" file with the following content:
+Supporting Release Notes in your mod is easy. Just add a `releasenotes.ini` file in the same directory as the `mod.info` file with the following content:
 
 ```
 [Version 0.2.0]
