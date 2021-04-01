@@ -1,0 +1,2 @@
+version:0.2.0
+url:https://raw.githubusercontent.com/blind-coder/pz-releasenotes/master/latest_version.txt

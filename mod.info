@@ -1,0 +1,10 @@
+name=Mod Release Notes
+poster=mod_release_notes.png
+description=Mod to show release notes for mods.
+id=bcReleaseNotes
+url=
+require=bcUtils
+
+modversion=0.1.0
+pzversion=40.00
+versionurl=https://raw.githubusercontent.com/blind-coder/pz-releasenotes/master/mod.inf
